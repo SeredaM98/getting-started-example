@@ -9,5 +9,8 @@
   },
   "volta": {
     "node": "18.17.1"
+  },
+  "dependencies": {
+    "rimraf": "^5.0.5"
   }
 }
